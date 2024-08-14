@@ -11,4 +11,4 @@ I have been solving a coding problem where I must:
 - Use these coordinates to find out where on a 2D grid the Unicode characters go;
 - Print out the characters with their associated coordinates to get the originally intended alphabetical character.
 
-This notebook goes into greater detail for all the functions I used to achieve these goals.
+This notebook in this repository goes into greater detail for all the functions I used to achieve these goals.
